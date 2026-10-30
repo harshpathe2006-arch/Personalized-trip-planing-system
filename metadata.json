@@ -1,0 +1,6 @@
+{
+  "name": "Personalized Trip Planning System",
+  "description": "A comprehensive IT Engineering mini-project web application for personalized travel planning, day-wise itinerary generation, budget management, and trip organization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
